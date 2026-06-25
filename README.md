@@ -81,7 +81,7 @@ This project addresses that problem by building a **Student Career Path Predicti
 
 ## Project Structure
 ```bash
-Student-Career-Path-Prediction-System/
+Student-Career-Path-Prediction-Using-Machine-Learning/
 │
 ├── backend/                 # Backend logic and Flask application
 ├── frontend/                # Frontend files (HTML, CSS, JS) if available
